@@ -7,5 +7,5 @@ this is my practise for algorithm
 python3
 
 ##
-middle 75%
-hard 25%
+- middle 75%
+- hard 25%
